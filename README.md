@@ -1,2 +1,2 @@
 # WhoseGraffiti_MyScripts
-WhoseGraffit?開発における、私が主に担当した箇所のスクリプトです。
+様々なことを考慮した結果、WhoseGraffit?開発における、私が主に担当した箇所のスクリプトのみを公開することにしました。
